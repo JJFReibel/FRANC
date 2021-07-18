@@ -24,7 +24,7 @@ THIS IS VERY IMPORTANT
 At the time of this writing (July 18, 2021), Coinbase Wallet supports ANY ERC-20 token, but please read the information on their site.
 Specifics may change. To be clear, the Coinbase Ethereum address for receiving is not the same as the Coinbase Wallet Ethereum address for receiving.
 Coinbase Wallet supports unlisted ERC-20 tokens, Coinbase (Not Coinbase Wallet) only supports ERC-20 which it lists (Please consult Coinbase site).
-As of the time of this writing (July 18, 2021), if you transfer unlisted ERC-20 tokens, or any cryptocurrency not supported by Coinbase, YOUR ASSET WILL BE LOST!
+As of the time of this writing (July 18, 2021), if you transfer unlisted ERC-20 tokens, or any cryptocurrency not supported by Coinbase, to a Coinbase Ethereum wallet, YOUR ASSET WILL BE LOST!
 Only send unsupported ERC-20 tokens to the Coinbase Wallet Ethereum account address.
 
 Back to instructions.
