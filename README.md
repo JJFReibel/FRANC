@@ -1,7 +1,7 @@
 # FRANC
 Franc is an ERC-20 token with a 100 trillion token limit. This is hard-coded.
 
-None of this is financial advice, and cryptocurrency is prone to volatility. Invest wisely.
+None of this is financial advice, and cryptocurrencies are prone to volatility. Invest wisely.
 I do not represent ANY organization mentioned other than being the creator of the Franc token.
 Cryptocurrencies are seen as the currency of the future, with encryption and digital presence being most valued.
 The fluctuations in price can result in a loss of a lot of assets.
@@ -35,7 +35,7 @@ Back to instructions.
 5) Note: Each time you transfer money from one address to another, you lose a little because you must pay a transaction and miner fee, called a "Gas Fee"
 6) SEND that cryptocurrency (You now own cryptocurrency, yay!) to your Coinbase Wallet Ethereum Address (click receive in the Wallet app to see address)
 7) Go to the MetaMask website and create an account and add the extension to Google Chrome
-8) Send your cryptocurrency from you Coinbase Wallet account to you MetaMask account
+8) Send your cryptocurrency from your Coinbase Wallet account to you MetaMask account
 9) Go to the Uniswap website and click on connect wallet and then MetaMask
 10) You could have done this with Coinbase Wallet, but MetaMask may be better for this part and get you better gas fees from my experience
 11) Send your cryptocurrency from you Coinbase Wallet account to your MetaMask account
