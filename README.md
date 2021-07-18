@@ -38,7 +38,7 @@ Back to instructions.
 8) Send your cryptocurrency from your Coinbase Wallet account to you MetaMask account
 9) Go to the Uniswap website and click on connect wallet and then MetaMask
 10) You could have done this with Coinbase Wallet, but MetaMask may be better for this part and get you better gas fees from my experience
-11) Send your cryptocurrency from you Coinbase Wallet account to your MetaMask account
+11) Send your cryptocurrency from your Coinbase Wallet account to your MetaMask account
 12) Select your currency you will use to swap with, such as Ethereum, then select Franc as the token to get from the swap
 13) Click on swap and follow the instructions and agree. Notice there is a gas fee, which may increase or decrease, depending on the time or day
 14) Once this goes through, you will own some Franc. Remember, DO NOT TRANSFER THIS TO YOUR COINBASE ETHEREUM ADDRESS
