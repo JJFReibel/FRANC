@@ -40,11 +40,12 @@ Back to instructions.
 10) You could have done this with Coinbase Wallet, but MetaMask may be better for this part and get you better gas fees from my experience
 11) Send your cryptocurrency from your Coinbase Wallet account to your MetaMask account
 12) Select your currency you will use to swap with, such as Ethereum, then select Franc as the token to get from the swap
-13) Click on swap and follow the instructions and agree. Notice there is a gas fee, which may increase or decrease, depending on the time or day
-14) Once this goes through, you will own some Franc. Remember, DO NOT TRANSFER THIS TO YOUR COINBASE ETHEREUM ADDRESS
-15) You may transfer it to your Coinbase Wallet Ethereum address if you'd like for safe keeping, or transfer only some
-16) You can now fully invest in Franc, or just collect it for the sake of collecting coins/tokens, or swap some for other crypto
-17) Voilà!
+13) Franc may not be listed automatically, and so you may have to enter the Contract address: 0xbabd6aa0798b805309533601ef4459103803e09b
+14) Click on swap and follow the instructions and agree. Notice there is a gas fee, which may increase or decrease, depending on the time or day
+15) Once this goes through, you will own some Franc. Remember, DO NOT TRANSFER THIS TO YOUR COINBASE ETHEREUM ADDRESS
+16) You may transfer it to your Coinbase Wallet Ethereum address if you'd like for safe keeping, or transfer only some
+17) You can now fully invest in Franc, or just collect it for the sake of collecting coins/tokens, or swap some for other crypto
+18) Voilà!
 
 
 Official E-Mail: jj.f.reibel@gmail.com
