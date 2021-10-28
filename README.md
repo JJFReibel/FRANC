@@ -1,18 +1,18 @@
 # FRANC
 Franc is an ERC-20 token with a 100 trillion token limit. This is hard-coded.
 
-None of this is financial advice, and cryptocurrencies are prone to volatility. Invest wisely.
+None of this is financial advice, and cryptocurrencies are prone to volatility. Collect wisely.
 I do not represent ANY organization mentioned other than being the creator of the Franc token.
 Cryptocurrencies are seen as the currency of the future, with encryption and digital presence being most valued.
 The fluctuations in price can result in a loss of a lot of assets.
 However, holding (sometimes called HODLing) crypto assets have proven to be a possible way to greatly increase wealth in a short amount of time.
-By buying and later selling when the price is high, investors have made millions, some possibly billions, of dollars in just months or less.
-AGAIN: This is not financial advice. Like any investment, invest at your own risk.
+By buying and later selling when the price is high, collectors have made millions, some billions, of dollars in just months or less.
+AGAIN: This is not financial advice. Like any collection, collect at your own risk.
 If you merely would like to buy or swap for some Franc to collect (like a coin or token collector), then please do.
-No gain of wealth is guaranteed and loss is possible in all investments.
+No gain of wealth is guaranteed and loss is possible in all collections.
 Please proceed with caution.
 
-To buy, swap, and invest in Franc, a user must create an Ethereum ERC-20 compatible wallet.
+To buy, swap, and collect Franc, a user must create an Ethereum ERC-20 compatible wallet.
 ERC-20 wallets include Coinbase Wallet and MetaMask. (As of July 18, 2021)
 
 Instructions on one way to get started:
@@ -44,7 +44,7 @@ Back to instructions.
 14) Click on swap and follow the instructions and agree. Notice there is a gas fee, which may increase or decrease, depending on the time or day
 15) Once this goes through, you will own some Franc. Remember, DO NOT TRANSFER THIS TO YOUR COINBASE ETHEREUM ADDRESS
 16) You may transfer it to your Coinbase Wallet Ethereum address if you'd like for safe keeping, or transfer only some
-17) You can now fully invest in Franc, or just collect it for the sake of collecting coins/tokens, or swap some for other crypto
+17) You can now fully trade Franc, or just keep it for the sake of collecting coins/tokens.
 18) Voilà!
 
 
